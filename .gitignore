@@ -1,0 +1,14 @@
+*.pdf
+*.db
+*.duckdb
+*.wal
+
+renv/
+.Rproj.user
+.Rhistory
+.RData
+.DS_Store
+
+
+
+
